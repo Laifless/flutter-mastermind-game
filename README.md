@@ -17,10 +17,10 @@ Caratteristiche principali:
 
 Scelte di sviluppo:
 
-  Archittettura:
-    dato che non ho aggiunto altri schermi ho gestito tutto con un StatefulWidget con setState() dato che è più semplice da usarlo che in altri modi
-  Algoritmo di feedback:
-    L'algroritmo calcola i pioli "neri" (quelli verdi in questa versione), poi utilizza copie delle liste per eliminare i colori già contati così si evita alla fine un doppio conteggio
+  - Archittettura:
+      - dato che non ho aggiunto altri schermi ho gestito tutto con un StatefulWidget con setState() dato che è più semplice da usarlo che in altri modi
+  - Algoritmo di feedback:
+      - L'algroritmo calcola i pioli "neri" (quelli verdi in questa versione), poi utilizza copie delle liste per eliminare i colori già contati così si evita alla fine un doppio conteggio
   Leggibilità:
-    Il codice è pulito nel senso che molte funzioni sono scritte separatemente per un maggior ordine mentale ed è più facile trovare eventuali errori
+      - Il codice è pulito nel senso che molte funzioni sono scritte separatemente per un maggior ordine mentale ed è più facile trovare eventuali errori
 
