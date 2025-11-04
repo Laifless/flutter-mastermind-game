@@ -24,3 +24,6 @@ Scelte di sviluppo:
   Leggibilità:
       - Il codice è pulito nel senso che molte funzioni sono scritte separatemente per un maggior ordine mentale ed è più facile trovare eventuali errori
 
+# Nota dall'autore
+
+Il codice di per sè è riuscito però conoscendo i miei tempi questo è il massimo che ho saputo fare, avrei sperato di riuscire ad implementare anche un sistema di scelta di difficoltà e uno di tentativi o di fare qualcosa di più carino 
